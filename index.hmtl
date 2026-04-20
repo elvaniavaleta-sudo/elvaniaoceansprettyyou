@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Dunia Laut</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>🌊 Dunia Laut</h1>
+    <p>Jelajahi keindahan laut biru yang menenangkan</p>
+  </header>
+
+  <!-- Konten -->
+  <section class="content">
+    <h2>Keindahan Laut</h2>
+    <p>
+      Laut menyimpan berbagai keajaiban, mulai dari ikan kecil hingga makhluk besar
+      yang hidup di kedalaman. Semakin dalam, semakin misterius dan memukau.
+    </p>
+  </section>
+
+  <!-- Ombak -->
+  <div class="wave"></div>
+  <div class="wave wave2"></div>
+
+  <!-- Ikan -->
+  <div class="fish fish1">🐟</div>
+  <div class="fish fish2">🐠</div>
+  <div class="fish fish3">🐡</div>
+
+  <!-- Gelembung -->
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+
+</body>
+</html>
